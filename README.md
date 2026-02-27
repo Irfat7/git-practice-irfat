@@ -1,5 +1,16 @@
-A simple project for git assignment
+# Git Practice Project
 
-Irfat
+## Author
+Irfat Chowdhury
 
-Date Time Print Add Subtract etc
+## Description
+This project demonstrates:
+- Basic Git workflow
+- Branching and merging
+- Simple calculator functions in Python
+
+## Features
+- Add
+- Subtract
+- Multiply
+- Error handling
