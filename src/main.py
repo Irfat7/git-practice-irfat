@@ -1,7 +1,8 @@
 from datetime import date
-from utils import add, subtract
+from utils import add, subtract, multiply
 
 print("Irfat")
 print(date.today())
 print(add(1,2))
 print(subtract(1,2))
+print(multiply(2,2))
